@@ -1,0 +1,1 @@
+alert("Meu Codigo Js na 2 pagina")
