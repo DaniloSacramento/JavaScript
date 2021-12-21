@@ -11,7 +11,7 @@ if (Confirmar) {
 }
 
 if (VelocidadeNave <= 0) {
-    console.log("Nave está parada. Considere partir e aumentar a velocidade")
+    alert("Nave está parada. Considere partir e aumentar a velocidade")
 } else if (VelocidadeNave < 40) {
     alert("Você está indo muito devagar")
 } else if (VelocidadeNave < 80) {
