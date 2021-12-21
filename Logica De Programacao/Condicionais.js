@@ -7,3 +7,5 @@ if (velocity < 100) {
 } else {
     console.log("Ja estamos em velocidade de risco!")
 }
+
+(velocity > 100) ? console.log("Velocidade maior que 100"): console.log("Velocidade menor que 100")
